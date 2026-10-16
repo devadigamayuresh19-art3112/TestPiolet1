@@ -1,0 +1,6 @@
+{
+  "name": "TestPilot AI",
+  "description": "Autonomous QA testing platform for web applications with real browser automation and failure reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

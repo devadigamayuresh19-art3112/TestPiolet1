@@ -1,0 +1,20 @@
+[
+  "backend/tests/test_api.py::test_create_run_allowed_dev_host_accepted",
+  "backend/tests/test_api.py::test_create_run_metadata_rejected",
+  "backend/tests/test_api.py::test_create_run_ssrf_rejected",
+  "backend/tests/test_api.py::test_create_run_unauthorized_domain_rejected",
+  "backend/tests/test_api.py::test_health_endpoint",
+  "backend/tests/test_api.py::test_root_endpoint",
+  "backend/tests/test_validation.py::test_auto_https_prefix",
+  "backend/tests/test_validation.py::test_cloud_metadata_strictly_blocked",
+  "backend/tests/test_validation.py::test_explicitly_authorized_domain_allowed",
+  "backend/tests/test_validation.py::test_initial_dev_hosts_allowed",
+  "backend/tests/test_validation.py::test_invalid_scheme_rejected",
+  "backend/tests/test_validation.py::test_ip_helper_functions",
+  "backend/tests/test_validation.py::test_private_ip_detection",
+  "backend/tests/test_validation.py::test_ssrf_localhost_blocked",
+  "backend/tests/test_validation.py::test_ssrf_metadata_blocked",
+  "backend/tests/test_validation.py::test_unauthorized_domain_rejected",
+  "backend/tests/test_validation.py::test_unauthorized_private_ip_blocked",
+  "backend/tests/test_validation.py::test_valid_urls"
+]
